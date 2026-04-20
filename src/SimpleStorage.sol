@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
+// mau tes apakah berjalan
+
 contract SimpleStorage {
     uint256 public noFav;
     //uint256 [] listnofav;
