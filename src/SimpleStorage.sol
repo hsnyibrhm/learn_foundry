@@ -8,7 +8,7 @@ contract SimpleStorage {
     //uint256 [] listnofav;
 
     struct Orang {
-        uint256 NoFav;
+        uint256 noFav;
         string nama;
     }
 
